@@ -41,4 +41,6 @@ E, por fim, rode o projeto:
 ```
 
 
-Pronto! Quaisquer dúvidas, críticas ou comentários estou à disposição!
+## Banco de dados
+
+Banco de dados utilizado: PostgreSQL
