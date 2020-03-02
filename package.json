@@ -1,0 +1,28 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willtet/rest-api-nodejs.git"
+  },
+  "author": "Willian Takashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willtet/rest-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/willtet/rest-api-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.2",
+    "pg": "^7.18.2"
+  }
+}
